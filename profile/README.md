@@ -3,15 +3,15 @@
     <source
       width="128px"
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Lunark-Projects/.github/main/8gen2.svg"
+      srcset="https://raw.githubusercontent.com/Vermeer-Development/.github/main/8gen2.svg"
     >
     <img 
-      src="https://raw.githubusercontent.com/Lunark-Projects/.github/main/8gen2.svg"
+      src="https://raw.githubusercontent.com/Vermeer-Development/.github/main/8gen2.svg"
     >
   </picture>
 </p>
-<h1 align=center>Lunark-Projects Vermeer(AOSP)</h1>
-<p align=center><img src="https://komarev.com/ghpvc/?username=Lunark-Projects&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
+<h1 align=center>Vermeer-Development</h1>
+<p align=center><img src="https://komarev.com/ghpvc/?username=Vermeer-Development&style=for-the-badge&color=3ddc84&label=Visited+People" alt="Profile Views" /></p>
 
 <h2 align=center>Supporting devices</h2>
 
